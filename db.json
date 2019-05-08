@@ -9,5 +9,7 @@
   "profile": {
     "name": "typicode"
   },
-  "test":{"ext":"302"}
+  "test": {
+    "ext": "302"
+  }
 }
