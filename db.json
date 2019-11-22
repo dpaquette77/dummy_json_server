@@ -1,12 +1,14 @@
 {
-  "posts": [
+  "predictions": [
     {
-      "id": 5147778888,
-      "type": "lead",
-      "ext" : "302"
+      "name": "test",
+      "deadline": "test",
+      "projected_price" : "test",
+      "cdpr" : "",
+      "sentiment" : "",
+      "status" : "",
+      "prediction_date" : "",
+      "source" : ""
     }
-  ],
-  "profile": {
-    "ext": "302"
-  }
+  ]
 }
