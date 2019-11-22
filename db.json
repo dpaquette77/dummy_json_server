@@ -1,24 +1,24 @@
 {
   "predictions": [
     {
-      “name”: “Jeremy Liew”,
-      “deadline”: “2030/12/31",
-      “projected_price” : “500000",
-      “cdpr” : “0.12",
-      “sentiment” : “Bullish”,
-      “status” : “Pending”,
-      “prediction_date” : “2017/05/04",
-      “source” : “https://www.businessinsider.com/bitcoin-price-could-be-500000-by-2030-first-snapchat-investor-says-2017-3”
+      "name": "Jeremy Liew",
+      "deadline": "2030/12/31",
+      "projected_price" : "500000",
+      "cdpr" : "0.12",
+      "sentiment” : "Bullish”,
+      "status" : "Pending”,
+      "prediction_date" : “2017/05/04",
+      "source" : "https://www.businessinsider.com/bitcoin-price-could-be-500000-by-2030-first-snapchat-investor-says-2017-3"
     },
      {
-      “name”: “Wences Casares”,
-      “deadline”: “2027/12/31",
-      “projected_price” : “1000000",
-      “cdpr” : “0.15",
-      “sentiment” : “Bullish”,
-      “status” : “Correct”,
-      “prediction_date” : “2017/06/17",
-      “source” : “https://blog.xapo.com/why-own-bitcoin/”
+      "name": "Wences Casares",
+      "deadline": "2027/12/31",
+      "projected_price" : "1000000",
+      "cdpr" : "0.15",
+      "sentiment" : "Bullish",
+      "status" : "Correct",
+      "prediction_date" : “2017/06/17",
+      "source" : "https://blog.xapo.com/why-own-bitcoin/"
     }
   ]
 }
